@@ -1,4 +1,4 @@
-  const scriptURL = 'https://script.google.com/macros/library/d/1S4wKMwdWWw_LpE0pKOurC9Gl3Z6rZjJxXpLOKvsdeLRoZaPIBWj2dNsu/1';
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbzVhfll_TlnzERtNnuT1K1vL7fjD9I4B6gG9DoHx2b2FwPdcQGx9zvxA1PDNnchMr4/exec';
   const form = document.forms['my-contact-form'];
   const btnSend = document.querySelector('.btn-send');
   const btnLoading = document.querySelector('.btn-loading');
