@@ -55,7 +55,7 @@
                         <li>
                             <a href="../index.html#blog" class="nav-anim">
                                 <span class="menu-icon lnr lnr-chevron-left"></span>
-                                <span class="link-text">BLOG</span>
+                                <span class="link-text">BACK</span>
                             </a>
                         </li>
 
