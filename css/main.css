@@ -1386,17 +1386,20 @@ input[type="text"],
 }
 
 .skills-second-style .bg-info {
-    background-color: #0275d8;
+    background-color: #0d6efd;
 }
 
 .skills-second-style .bg-warning {
-    background-color: #f0ad4e;
+    background-color: #fd7e14;
 }
 
 .skills-second-style .bg-danger {
-    background-color: #5cb85c;
+    background-color: #dc3545;
 }
 
+.skills-second-style .bg-success {
+    background-color: #198754;
+}
 
 /* --- Skills Values --- */
 
