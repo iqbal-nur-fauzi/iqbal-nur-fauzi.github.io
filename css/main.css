@@ -1507,6 +1507,24 @@ input[type="text"],
     transition: all 0.2s ease-in-out;
 }
 
+.item-company-logo {
+    display: table-cell;
+    width: 80px;
+    height: 100%;
+    background-color: #fff;
+    padding: 3px;
+    vertical-align: middle;
+    align-items: center;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-right: 2px solid #e5e5e5;
+}
+
+.item-company-logo {
+    display: block;
+    max-width: 100%;
+}
+    
 .certi-logo {
     display: table-cell;
     width: 80px;
