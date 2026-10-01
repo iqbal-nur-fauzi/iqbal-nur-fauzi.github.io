@@ -1311,6 +1311,23 @@ input[type="text"],
     color: rgba(133, 131, 131, 1);
 }
 
+.timeline-second-style .item-company-logo {
+    display: table-cell;
+    width: 80px;
+    height: 100%;
+    background-color: #fff;
+    padding: 3px;
+    vertical-align: middle;
+    align-items: center;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+.timeline-second-style .item-company-logo img {
+    display: block;
+    max-width: 100%;
+}
+
 .timeline-second-style .timeline-item:last-child .right-part {
     padding-bottom: 0;
 }
@@ -1505,23 +1522,6 @@ input[type="text"],
     -o-transition: all 0.2s ease-in-out;
     -ms-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
-}
-
-.item-company-logo {
-    display: table-cell;
-    width: 80px;
-    height: 100%;
-    background-color: #fff;
-    padding: 3px;
-    vertical-align: middle;
-    align-items: center;
-    border-top-left-radius: 6px;
-    border-bottom-left-radius: 6px;
-}
-
-.item-company-logo img {
-    display: block;
-    max-width: 100%;
 }
     
 .certi-logo {
