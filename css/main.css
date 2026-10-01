@@ -1307,12 +1307,11 @@ input[type="text"],
     font-weight: 300;
     line-height: 1.45em;
     font-weight: bold;
-    text-transform: uppercase;
     color: rgba(133, 131, 131, 1);
 }
 
 .timeline-second-style .item-company-logo {
-    display: table-cell;
+    display: inline-grid;
     width: 80px;
     height: 100%;
     background-color: #fff;
