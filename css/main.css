@@ -1517,7 +1517,6 @@ input[type="text"],
     align-items: center;
     border-top-left-radius: 6px;
     border-bottom-left-radius: 6px;
-    border-right: 2px solid #e5e5e5;
 }
 
 .item-company-logo img {
