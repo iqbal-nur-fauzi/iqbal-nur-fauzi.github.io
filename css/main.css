@@ -102,17 +102,6 @@ h6 {
     font-size: 14px;
 }
 
-.a .link-credit {
-  color: white;
-  text-decoration: none;
-  transition: color 0.3s ease; /* Adds a smooth transition */
-}
-
-.a .link-credit:hover {
-  color: skyblue;
-  text-decoration: underline;
-}
-
 a {
     color: #0099cc;
     text-decoration: none;
@@ -121,6 +110,10 @@ a {
     -o-transition: all 0.3s ease-in-out;
     -ms-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
+}
+
+.a .link-credit {
+    color : #ffffff;
 }
 
 p {
