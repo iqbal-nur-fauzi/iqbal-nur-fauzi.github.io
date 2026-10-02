@@ -112,6 +112,11 @@ a {
     transition: all 0.3s ease-in-out;
 }
 
+.a .link-credit:hover {
+  color: skyblue;
+  text-decoration: underline;
+}
+
 .link-credit {
     color : #ffffff;
     text-decoration: none;
