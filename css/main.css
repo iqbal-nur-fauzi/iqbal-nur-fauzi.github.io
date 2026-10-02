@@ -103,7 +103,7 @@ h6 {
 }
 
 a {
-    color: #0099cc;
+    color: #ffffff;
     text-decoration: none;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -111,17 +111,6 @@ a {
     -ms-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
-
-.a .link-credit {
-    color : #ffffff;
-    text-decoration: none;
-    transition: color 0.3s ease; /* Adds a smooth transition */
-}
-
-/* .link-credit:hover {
-  color: #87ceeb;
-  text-decoration: underline;
-} */
 
 p {
     margin-bottom: 10px;
