@@ -103,7 +103,7 @@ h6 {
 }
 
 a {
-    color: #ffffff;
+    color: #0099cc;
     text-decoration: none;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -114,6 +114,8 @@ a {
 
 .link-credit {
     color : #ffffff;
+    text-decoration: none;
+    transition: color 0.3s ease; /* Adds a smooth transition */
 }
 
 p {
