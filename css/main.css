@@ -540,6 +540,13 @@ input[type="submit"]:focus {
 
 .a .link-credit {
   color: white;
+  text-decoration: none;
+  transition: color 0.3s ease; /* Adds a smooth transition */
+}
+
+a:hover {
+  color: skyblue;
+  text-decoration: underline;
 }
 
 /* ------------------------------------------------------------
