@@ -118,10 +118,10 @@ a {
     transition: color 0.3s ease; /* Adds a smooth transition */
 }
 
-.link-credit:hover {
+/* .link-credit:hover {
   color: #87ceeb;
   text-decoration: underline;
-}
+} */
 
 p {
     margin-bottom: 10px;
