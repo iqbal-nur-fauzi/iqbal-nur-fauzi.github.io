@@ -118,8 +118,8 @@ a {
     transition: color 0.3s ease; /* Adds a smooth transition */
 }
 
-.a .link-credit:hover {
-  color: skyblue;
+.link-credit:hover {
+  color: #87ceeb;
   text-decoration: underline;
 }
 
