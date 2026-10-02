@@ -538,7 +538,7 @@ input[type="submit"]:focus {
     text-align: center;
 }
 
-.a .link-credit {
+.link-credit {
   color: #fff;
   text-decoration: none;
   transition: color 0.3s ease; /* Adds a smooth transition */
