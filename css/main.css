@@ -112,6 +112,17 @@ a {
     transition: all 0.3s ease-in-out;
 }
 
+.a .link-credit {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s ease; /* Adds a smooth transition */
+}
+
+.a .link-credit:hover {
+  color: skyblue;
+  text-decoration: underline;
+}
+
 p {
     margin-bottom: 10px;
 }
@@ -536,17 +547,6 @@ input[type="submit"]:focus {
     line-height: 14px;
     font-size: 12px;
     text-align: center;
-}
-
-.a .link-credit {
-  color: white;
-  text-decoration: none;
-  transition: color 0.3s ease; /* Adds a smooth transition */
-}
-
-.a .link-credit:hover {
-  color: skyblue;
-  text-decoration: underline;
 }
 
 /* ------------------------------------------------------------
