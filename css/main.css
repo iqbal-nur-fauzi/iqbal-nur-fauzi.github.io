@@ -544,10 +544,10 @@ input[type="submit"]:focus {
   transition: color 0.3s ease; /* Adds a smooth transition */
 }
 
-a.link-credit:hover {
+/* a.link-credit:hover {
   color: skyblue;
   text-decoration: underline;
-}
+} */
 
 /* ------------------------------------------------------------
 5. Page Content
