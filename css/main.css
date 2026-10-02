@@ -538,16 +538,8 @@ input[type="submit"]:focus {
     text-align: center;
 }
 
-.header .copyrights .credits {
-    color: #fff;
-    width: 330px;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    padding: 5px 10px 15px;
-    line-height: 14px;
+.credits {
     font-size: 8px;
-    text-align: center; 
 }
 
 
@@ -2482,19 +2474,10 @@ blockquote {
             position: absolute;
             margin-top: 30px;
         }
-        .header .copyrights .credits{
-            right: 0;
-            width: 100%;
-            position: absolute;
-            margin-top: 30px;
-        }
     }
 
     @media (max-height: 670px) {
         .header .copyrights {
-            color: transparent;
-        }
-        .header .copyrights .credits {
             color: transparent;
         }
     }
