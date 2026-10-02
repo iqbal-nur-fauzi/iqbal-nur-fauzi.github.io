@@ -538,6 +538,10 @@ input[type="submit"]:focus {
     text-align: center;
 }
 
+.link-credit {
+    color: #fff;
+}
+
 
 /* ------------------------------------------------------------
 5. Page Content
