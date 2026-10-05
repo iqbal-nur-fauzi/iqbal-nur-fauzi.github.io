@@ -33,7 +33,14 @@
 
 /* Google fonts */
 
-@import url("https://fonts.googleapis.com/css?family=Poppins:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i");
+/* @import url("https://fonts.googleapis.com/css?family=Poppins:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i"); */
+@font-face {
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 200;
+    src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVFteOcEg.woff2) format('woff2');
+    unicode-range: U +0900 -097F, U +1CD0 -1CF9, U +200C -200D, U +20A8, U +20B9, U +20F0, U +25CC, U + A830-A839, U + A8E0-A8FF, U +11B00 -11B09;
+}
 
 /* Linear Icons Font */
 
@@ -42,6 +49,8 @@
 /* FontAwesome Free Icons Font */
 
 @import url("./fonts/fontawesome-free-5.12.1-web/css/all.min.css");
+
+
 
 /* ------------------------------------------------------------
 2. General Styles
@@ -319,8 +328,6 @@ input[type="submit"]:focus {
         padding: 65px 30px 45px;
         overflow: auto;
     }
-
-    .header-titles {}
 
     /* --- Navigation --- */
     ul.main-menu {
