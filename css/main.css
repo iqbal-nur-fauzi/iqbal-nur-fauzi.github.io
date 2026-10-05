@@ -2616,7 +2616,7 @@ blockquote {
     }
 
     .menu-toggle span:nth-child(2) {
-        top: 22px;
+        top: 23px;
         -webkit-transform-origin: left center;
         -moz-transform-origin: left center;
         -o-transform-origin: left center;
@@ -2624,7 +2624,7 @@ blockquote {
     }
 
     .menu-toggle span:nth-child(3) {
-        top: 28px;
+        top: 29px;
         -webkit-transform-origin: left center;
         -moz-transform-origin: left center;
         -o-transform-origin: left center;
