@@ -2608,7 +2608,7 @@ blockquote {
     }
 
     .menu-toggle span:nth-child(1) {
-        top: 16px;
+        top: 17px;
         -webkit-transform-origin: left center;
         -moz-transform-origin: left center;
         -o-transform-origin: left center;
