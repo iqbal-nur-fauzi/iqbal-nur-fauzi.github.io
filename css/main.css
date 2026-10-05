@@ -2996,7 +2996,7 @@ blockquote {
         z-index: 10;
         background-color: rgba(255, 255, 255, 0.6);
         width: 48px;
-        left: 5px;
+        left: 10px;
         bottom: 10px;
         padding: 5px 0;
         border: 2px solid #09aeea;
