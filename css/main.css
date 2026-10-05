@@ -2636,8 +2636,8 @@ blockquote {
         -moz-transform: rotate(45deg);
         -o-transform: rotate(45deg);
         transform: rotate(45deg);
-        top: 13px;
-        left: 15px;
+        top: 14px;
+        left: 16px;
     }
 
     .menu-toggle.open span:nth-child(2) {
