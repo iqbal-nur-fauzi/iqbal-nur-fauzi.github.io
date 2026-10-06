@@ -3201,7 +3201,7 @@ blockquote {
 .my-alert-success {
     margin-bottom: 35px;
     padding: 0px;
-    background-color: #b6d6c8;
+    background-color: #198754;
     border-radius: 5px;
     opacity: 1;
 }
@@ -3209,7 +3209,7 @@ blockquote {
 .my-alert-warning {
     margin-bottom: 35px;
     padding: 0px;
-    background-color: #f0ad4e;
+    background-color: #ffc107;
     border-radius: 5px;
     opacity: 1;
 }
@@ -3217,7 +3217,7 @@ blockquote {
 .my-alert-danger {
     margin-bottom: 35px;
     padding: 0px;
-    background-color: #d9534f;
+    background-color: #dc3545;
     border-radius: 5px;
     opacity: 1;
 }
