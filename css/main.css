@@ -320,7 +320,7 @@ input[type="submit"]:focus {
 @media only screen and (min-width: 1220px) {
     .header {
         display: inline-block;
-        float: block;
+        float: left;
         width: 100%;
         max-width: 380px;
         height: 100%;
@@ -3227,7 +3227,7 @@ blockquote {
     line-height: 18px;
     margin-bottom: 0px;
     margin-top: 0px;
-    color: #ffffff;
+    color: #147547;
     font-size: 15px;
     padding: 7px;
 }
@@ -3237,7 +3237,7 @@ blockquote {
     line-height: 18px;
     margin-bottom: 0px;
     margin-top: 0px;
-    color: #ffffff;
+    color: #343700;
     font-size: 15px;
     padding: 7px;
 }
@@ -3247,7 +3247,7 @@ blockquote {
     line-height: 18px;
     margin-bottom: 0px;
     margin-top: 0px;
-    color: #ffffff;
+    color: #650000;
     font-size: 15px;
     padding: 7px;
 }
