@@ -1410,7 +1410,7 @@ input[type="text"],
     border: 0.01px solid #fff;
     -moz-border-radius: 9px;
     -webkit-border-radius: 9px;
-    border-radius: 9px;
+    border-radius: 8px;
     height: 8px;
     padding: 0;
 }
