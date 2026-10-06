@@ -1407,7 +1407,7 @@ input[type="text"],
 }
 
 .skills-second-style .skill-percentage {
-    border: 2px solid #fff;
+    border: 0.01px solid #fff;
     -moz-border-radius: 9px;
     -webkit-border-radius: 9px;
     border-radius: 9px;
