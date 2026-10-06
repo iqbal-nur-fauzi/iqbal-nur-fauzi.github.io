@@ -3201,7 +3201,7 @@ blockquote {
 .my-alert-success {
     margin-bottom: 35px;
     padding: 0px;
-    background-color: #4d9274;
+    background-color: #198754;
     border-radius: 5px;
     opacity: 1;
 }
@@ -3209,7 +3209,7 @@ blockquote {
 .my-alert-warning {
     margin-bottom: 35px;
     padding: 0px;
-    background-color: #f0ad4e;
+    background-color: #ffc107;
     border-radius: 5px;
     opacity: 1;
 }
@@ -3217,7 +3217,7 @@ blockquote {
 .my-alert-danger {
     margin-bottom: 35px;
     padding: 0px;
-    background-color: #d9534f;
+    background-color: #dc3545;
     border-radius: 5px;
     opacity: 1;
 }
@@ -3227,7 +3227,7 @@ blockquote {
     line-height: 18px;
     margin-bottom: 0px;
     margin-top: 0px;
-    color: #147547;
+    color: #ffffff;
     font-size: 15px;
     padding: 7px;
 }
@@ -3237,7 +3237,7 @@ blockquote {
     line-height: 18px;
     margin-bottom: 0px;
     margin-top: 0px;
-    color: #343700;
+    color: #ffffff;
     font-size: 15px;
     padding: 7px;
 }
@@ -3247,7 +3247,7 @@ blockquote {
     line-height: 18px;
     margin-bottom: 0px;
     margin-top: 0px;
-    color: #650000;
+    color: #ffffff;
     font-size: 15px;
     padding: 7px;
 }
